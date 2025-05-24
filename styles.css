@@ -33,7 +33,8 @@ body {
 }
 
 .button-container button {
-  width: 100%;
+  width: 90%; 
+  max-width: 350px; 
   padding: 15px 0;
   margin: 8px 0;
   background-color: #30503A;
@@ -44,6 +45,7 @@ body {
   cursor: pointer;
   transition: 0.3s ease;
 }
+
 
 .button-container button:hover {
   opacity: 0.9;
