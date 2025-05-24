@@ -36,16 +36,14 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* CENTRALIZA OS BOTÕES */
+  align-items: center;
 }
 
 .button-container button {
-  width: 90%; 
-  max-width: 350px; 
+  width: 100%;
+  max-width: 350px;
   padding: 15px 0;
-  margin: 8px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 8px 0;
   background-color: #30503A;
   color: white;
   border: none;
@@ -54,7 +52,6 @@ body {
   cursor: pointer;
   transition: 0.3s ease;
 }
-
 
 .button-container button:hover {
   opacity: 0.9;
