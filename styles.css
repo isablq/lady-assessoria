@@ -13,13 +13,13 @@ body {
   text-align: center;
   width: 90%;
   max-width: 400px;
+  margin-right: auto;
+  margin-right: auto;
 }
 
 .logo {
   margin-top: -90px;
   width: 400px;
-  margin-right: auto;
-  margin-right: auto;
 }
 
 .handle {
